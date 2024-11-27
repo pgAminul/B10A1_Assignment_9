@@ -40,7 +40,7 @@
 
 ## Installation
 
-1. Clone the repository: `https://github.com/programming-hero-web-course1/b10-a9-authentication-pgAminul`
+1. Clone the repository: `https://github.com/pgAminul/B10A1_Assignment_9`
 2. Navigate to the directory: `cd Ninth-Assingment`
 3. Install necessary dependencies: `npm install`
 4. Add Firebase configuration in `.env` file.
