@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "serviceName": "Career Counseling Sessions",
+    "category": "Online/One-on-One",
+    "briefDescription": "Get personalized advice and strategies to navigate your career path and make informed decisions.",
+    "pricing": 150,
+    "duration": "60 minutes (12-12-24 3-4pm)",
+    "counselor": "John Doe",
+    "rating": 4.8,
+    "image": "https://www.verywellmind.com/thmb/uUYgTWCH5CvEUR8LZUQWMMZ_t5s=/3754x0/filters:no_upscale():max_bytes(150000):strip_icc()/career-counseling-56a0f2ae5f9b58eba4b575ac.jpg"
+  },
+  {
+    "id": 2,
+    "serviceName": "Resume Review",
+    "category": "Online/One-on-One",
+    "briefDescription": "Get expert feedback and tips to improve your resume and stand out to potential employers.",
+    "pricing": 75,
+    "duration": "30 minutes (12-12-24 5-5:30pm)",
+    "counselor": "Jane Smith",
+    "rating": 4.7,
+    "image": "https://www.kopykitab.com/blog/wp-content/uploads/2022/08/guide-to-becoming-a-career-counselor_169267_large.jpg"
+  },
+  {
+    "id": 3,
+    "serviceName": "Group Career Counseling Workshop",
+    "category": "Offline/Group",
+    "briefDescription": "Join a group of like-minded individuals to learn career strategies and get guidance from experienced counselors.",
+    "pricing": 50,
+    "duration": "90 minutes (12-12-24 6-7:30pm)",
+    "counselor": "Michael Brown",
+    "rating": 4.6,
+    "image": "https://connexioninternational.co.uk/wp-content/uploads/elementor/thumbs/friendly-team-members-chatting-laughing-together-during-office-break-q60i5b8d85yvr6nnv1bc6xzbefcwzewm6pnyhh5ge8.jpg"
+  },
+  {
+    "id": 4,
+    "serviceName": "Job Interview Preparation",
+    "category": "Online/One-on-One",
+    "briefDescription": "Prepare for interviews with mock interviews and tailored feedback to boost your chances of success.",
+    "pricing": 100,
+    "duration": "45 minutes (12-12-24 4-4:45pm)",
+    "counselor": "Emily Green",
+    "rating": 4.9,
+    "image": "https://careerguidance.vjrc.ac.in/wp-content/uploads/2023/08/10-Top-Highest-Paying-Jobs-in-India.jpg"
+  },
+  {
+    "id": 5,
+    "serviceName": "LinkedIn Profile Optimization",
+    "category": "Online/One-on-One",
+    "briefDescription": "Optimize your LinkedIn profile to attract recruiters and land more job opportunities.",
+    "pricing": 80,
+    "duration": "30 minutes (12-12-24 2-2:30pm)",
+    "counselor": "Sarah Lee",
+    "rating": 4.7,
+    "image": "https://5.imimg.com/data5/QV/UD/GLADMIN-15615652/career-counseling-500x500.jpg"
+  },
+  {
+    "id": 6,
+    "serviceName": "Career Path Exploration",
+    "category": "Online/One-on-One",
+    "briefDescription": "Explore different career paths based on your skills, interests, and values with expert guidance.",
+    "pricing": 120,
+    "duration": "60 minutes (12-12-24 11am-12pm)",
+    "counselor": "David White",
+    "rating": 4.6,
+    "image": "https://img.freepik.com/free-photo/team-working-together-project_23-2149325488.jpg"
+  }
+]
